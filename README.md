@@ -45,4 +45,4 @@
 
 Область по бокам будет тёмная как на пикче: 
 
-![](https://drive.google.com/file/d/170Vj2R5ko_9GKmMFhe22whs8c3U5BfSO/view?usp=sharing)
+![](https://i.postimg.cc/288qdBvg/image.png)
