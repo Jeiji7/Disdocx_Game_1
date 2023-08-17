@@ -46,5 +46,5 @@
 Область по бокам будет тёмная как на пикче: 
 
 <kbd>
-  <img src="/спуск_по_лестнице.png" />
+  <img "https://drive.google.com/file/d/170Vj2R5ko_9GKmMFhe22whs8c3U5BfSO/view?usp=sharing" />
 </kbd>
